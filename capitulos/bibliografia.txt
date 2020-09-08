@@ -1,1 +1,17 @@
+Scott Chac and Ben Straub. Pro Git. Apress.
+Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014)
+
+Tecnologías de la Información en las Organizaciones 2020
+Añadir los cambios a la zona de intercambio temporal y hacer un commit con el mensaje “Añadida
+nueva referencia bibliográfica.”
+Cambiar a master.
+Cambiar el archivo bibliografía.txt para que contenga las siguientes referencias:
 Chac, S. and Straub, B. Pro Git. Apress.
+Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
+Añadir los cambios a la zona de intercambio temporal y hacer un commit con el mensaje “Añadida
+nueva referencia bibliográfica.”
+Fusionar el branch bibliografía con el branch master.
+Resolver el conflicto dejando el archivo bibliografia.txt con las referencias:
+Chac, S. and Straub, B. Pro Git. Apress.
+Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
+Hodson, R. Ry’s Git Tutorial. Smashwords (2014)
